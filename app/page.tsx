@@ -40,7 +40,7 @@ export default function LoginPage() {
       <div className="w-full max-w-sm bg-[#161B22] border border-[#2D3748] rounded-2xl p-8">
         <div className="text-center mb-8">
           <div className="text-4xl mb-3">🔐</div>
-          <h1 className="text-xl font-bold text-white">WCHF License Dashboard</h1>
+          <h1 className="text-xl font-bold text-white">YZ Realtime Translator License Dashboard</h1>
           <p className="text-[#A0AEC0] text-sm mt-1">Masukkan admin password</p>
         </div>
 
