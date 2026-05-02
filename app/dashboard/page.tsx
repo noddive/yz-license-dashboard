@@ -152,7 +152,7 @@ export default function DashboardPage() {
       {/* Header */}
       <div className="flex items-center justify-between mb-8">
         <div>
-          <h1 className="text-2xl font-bold text-white">🔐 WCHF License Dashboard</h1>
+          <h1 className="text-2xl font-bold text-white">🔐 YZ Realtime Translator License Dashboard</h1>
           <p className="text-[#A0AEC0] text-sm mt-1">Kelola lisensi pengguna</p>
         </div>
         <button
