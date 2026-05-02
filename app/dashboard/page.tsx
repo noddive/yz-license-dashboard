@@ -353,7 +353,7 @@ export default function DashboardPage() {
       </div>
 
       <p className="text-center text-[#4A5568] text-xs mt-6">
-        WCHF License Dashboard · {licenses.length} total license
+        YF License Dashboard · {licenses.length} total license
       </p>
     </div>
   )
