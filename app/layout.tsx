@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "WCHF License Dashboard",
-  description: "Manage WCHF Translator licenses",
+  title: "YZ RT License Dashboard",
+  description: "Manage YZ Realtime Translator licenses",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
